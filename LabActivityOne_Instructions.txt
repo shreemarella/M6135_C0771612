@@ -1,0 +1,6 @@
+Using the Starter Code provided, construct and application to see whether
+Lions or Tigers are stronger.
+
+Step 1:
+
+Create a Class to perform the Competition. Keep Track of the number of Winners in each family.

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peter's Great Webpage</title>
+</head>
+<body>
+    Hello Class!
+    <script src = 'index.js'>
+        alert(somefunction(2,2));
+    </script>
+
+    <table>
+        <tr>
+            <th><img width='75' src='python4.png'/> </th>
+            <th>
+                <form enc='GET' action='peanut1.js'> 
+                    <input type="text" width='20' name='firstname'/>        
+                    <input type="text" width='20' name='lastname'/>
+                    <hr>
+                    <input type="submit"  value='blue'/>
+                </form>
+
+
+            </th>
+            
+        </tr>
+        <tr>
+            <th> </th>
+            <th> </th>
+            
+        </tr>        
+
+    </table>
+
+    
+
+
+</body>
+</html>
